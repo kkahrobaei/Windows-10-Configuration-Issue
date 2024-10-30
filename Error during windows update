@@ -1,1 +1,13 @@
+https://www.auslogics.com/en/articles/we-couldnt-complete-the-updates-undoing-changes/
+https://www.electronicshub.org/fix-we-couldnt-complete-the-updates-undoing-changes/\
+Here’s a rephrased version:
 
+Incomplete Download: If Windows update files fail to download properly, it can result in the error message, “Windows couldn’t complete the updates.”
+
+Insufficient Disk Space: Installing Windows updates typically requires some free disk space.
+If your device doesn’t have enough available space, the updates won’t install, which can trigger this error.
+
+Corrupted System Files: Corruption in system files can prevent the update installation from proceeding correctly, often leading to the “We couldn’t complete the updates. Undoing changes” message.
+
+Interrupted Update Process: Interrupting the update process, such as by force-shutting down your computer, can stop the update and potentially corrupt system files. 
+This can also result in incomplete downloads, as some files may still be in the process of downloading.
