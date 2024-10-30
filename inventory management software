@@ -1,1 +1,20 @@
+https://howly.com/article/complete-guide-how-to-fix-hanging-or-crashing-apps-on-windows-10/
+https://www.fortect.com/windows-optimization-tips/system-errors-that-cause-windows-apps-to-crash/
+If your app crashes immediately upon launch, here are some common reasons and suggestions for resolving them:
 
+1. Incompatible Device or OS Version
+   -Solution: Check if your app is compatible with the device's operating system. Update the app or device to the latest version if necessary.
+
+2. Corrupted Installation
+   -Solution: Uninstall and then reinstall the app. This can resolve issues caused by corrupted files during the initial installation.
+
+3. Insufficient Device Resources
+   -Solution: Ensure the device has enough RAM and storage available. Close other apps running in the background to free up resources.
+
+4. Missing or Incorrect Permissions
+   -Solution: Verify that the app has the necessary permissions to run. Check the app settings in the device’s settings menu and grant any required permissions.
+
+5. Bugs in the Code
+   -Solution: If you're the developer, review the code for any exceptions or errors that could cause the app to crash. Utilize debugging tools to identify and fix these issues.
+
+By addressing these areas, you can often identify and resolve the cause of your app crashing immediately.
