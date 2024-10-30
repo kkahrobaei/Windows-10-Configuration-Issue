@@ -1,1 +1,17 @@
+https://www.drivereasy.com/knowledge/fixed-network-printer-not-showing-up-windows-10-11/
+https://smallbusiness.chron.com/printers-not-appearing-printers-56899.html
+If your printer isn't showing up on the network, here are four common reasons and their solutions:
 
+1. Printer is Turned Off or Offline
+   -Solution: Check if the printer is powered on. Ensure it’s not in sleep mode. Restart the printer if necessary.
+
+2. Wi-Fi Connection Issues
+   -Solution: Ensure the printer is connected to the same Wi-Fi network as your computer. You can check the printer’s network settings through its control panel. If it’s not connected, re-enter the Wi-Fi credentials.
+
+3. Firewall or Security Software Blocking Access
+   -Solution: Temporarily disable any firewall or security software on your computer to see if it allows the printer to appear. If it does, add the printer as an exception in the firewall settings.
+
+4. IP Address Conflicts
+   -Solution: Check if the printer has a unique IP address. You can do this by printing a network configuration page from the printer. If there’s a conflict, assign a static IP address to the printer through its settings.
+
+By troubleshooting these areas, you should be able to resolve the issue with your printer not showing up on the network.
